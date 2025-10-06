@@ -3,7 +3,7 @@
   <img src="https://github.com/Essam/Essam/blob/main/banner.png" alt="Banner - Essam | Desarrollador Web" width="100%" />
 </p>
 
-# 👋 ¡Hola! Soy Essam  
+# 👋 ¡Hola! Soy Esteban 
 
 Soy un **desarrollador web** enfocado en construir aplicaciones modernas, eficientes y bien estructuradas.  
 Me apasiona el **frontend**, aunque también disfruto diseñar y mantener el **backend**, aplicando principios de **arquitectura limpia** y buenas prácticas de desarrollo.
@@ -55,9 +55,7 @@ Me apasiona el **frontend**, aunque también disfruto diseñar y mantener el **b
 
 Me interesa profundamente la **arquitectura web** y la **organización del código**.  
 Busco siempre que cada proyecto tenga una estructura clara, escalable y fácil de mantener.
-
-- 💡 En **frontend**, mi enfoque favorito es la **Feature-Based Architecture**, ya que permite agrupar componentes, hooks y estilos por funcionalidad, logrando un flujo más coherente y mantenible.  
-- 🧱 En **backend**, utilizo la **estructura modular de NestJS**, promoviendo la separación de responsabilidades, la reutilización y la consistencia en los módulos.  
+ 
 - 🧠 Me inspiro en principios de **Clean Architecture**, **SOLID** y **Domain-Driven Design (DDD)** para mantener el código limpio y entendible.  
 - ⚙️ Siempre busco un balance entre **simplicidad, escalabilidad y legibilidad**.
 
@@ -67,7 +65,7 @@ Busco siempre que cada proyecto tenga una estructura clara, escalable y fácil d
 
 - 🎯 Enfocado en seguir perfeccionando mis conocimientos en **arquitectura web y patrones de diseño**.  
 - 🧩 Me gusta mantener una **estructura modular y ordenada** en mis proyectos.  
-- 💻 Uso **Linux (CachyOS)** como entorno de desarrollo principal.  
+- 💻 Uso **Linux** como entorno de desarrollo principal.  
 - 🕹️ En mi tiempo libre disfruto del **gaming** y de explorar nuevas herramientas y frameworks.  
 
 ---
