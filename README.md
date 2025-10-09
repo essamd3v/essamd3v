@@ -1,6 +1,6 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://github.com/Essam/Essam/blob/main/banner.png" alt="Banner - Essam | Desarrollador Web" width="100%" />
+  <img src="https://raw.githubusercontent.com/is-a-dev/register/main/media/banner.png" alt="Banner - Essam | Desarrollador Web" width="100%" />
 </p>
 
 # 👋 ¡Hola! Soy Esteban 
